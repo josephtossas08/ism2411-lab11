@@ -1,4 +1,8 @@
+# Reflection Questions
 
+# 1. I would use .get() when working with information that might be missing, such as a customer's phone number or email. I would use bracket notation when I know a key exists and need its value. My rule of thumb is to use .get() to avoid errors with missing information and brackets when the information is required.
+
+# 2. Exercise 8 reminds me of using SUMIF in Excel because it groups and adds values based on a specific category. Python is more useful for large datasets because it can automatically process thousands of records using loops instead of requiring me to organize and calculate everything manually.
 
 # EXERCISE 1 - One Customer
 
